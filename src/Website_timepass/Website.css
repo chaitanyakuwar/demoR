@@ -1,0 +1,38 @@
+
+/* NavUpperSect */
+#main-header_nav{
+    padding: 23px;
+}
+.icon-list i{
+    font-size: 25px;
+    margin: 3px;
+}
+.bi-facebook{
+    color: blue;
+}
+.bi-twitter{
+    color: blue;
+}
+.bi-instagram{
+    color: #f13b5b;
+}
+#Logo{
+    font-weight: bold;
+}
+#span-logo1{
+    color: black;
+}
+#span-logo2{
+    color: orange;
+}
+/* search bar */
+
+
+/* NavigationBar */
+.li-list li{
+    padding: 10px 20px;
+}
+/* .Nav-below p{
+    position: relative;
+    bottom: 10px;
+} */

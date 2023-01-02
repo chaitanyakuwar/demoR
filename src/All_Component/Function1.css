@@ -1,0 +1,27 @@
+.container-fluid{
+    /* border: 2px solid red; */
+}
+
+.container{
+    /* border: 2px solid black; */
+}
+.row{
+    /* border: 2px solid yellow; */
+}
+.col{
+    /* border: 2px solid orange; */
+}
+.images-box{
+    border: none;
+    border-radius: 26px;
+}
+/* .images-box:hover{
+    width: 500px;
+    height: 500px;
+} */
+
+
+.col p{
+    word-spacing: -2px;
+    letter-spacing: 0px;
+}

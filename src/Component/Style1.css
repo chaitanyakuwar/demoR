@@ -1,0 +1,91 @@
+.bg-image{
+    background-image: url('https://img.freepik.com/free-photo/sideways-full-image-attractive-muscular-young-woman-practicing-hatha-yoga-gym-standing-barefooted-mat-virabhadrasana-2-warrior-two-pose-having-concentrated-facial-expression_343059-3121.jpg?w=996&t=st=1669483094~exp=1669483694~hmac=ac17213b4155462a2953b83ae0459a37e37b9eac5f17eff906ab0eb486e76a58');
+    height:730px;
+    width:100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Open Sans', sans-serif;
+}
+.Text{
+    /* border: 2px solid red; */
+    display: grid;
+    grid-template-columns: 600px;
+    grid-template-rows: 251px;
+    position: relative;
+    padding: 22px;
+    top: 156px;
+    font-size: larger;
+    left: 10px;
+}
+.Text h1{
+    font-weight: bold;
+    color: black;
+}
+#info{
+    color:#C7BEAD;
+}
+
+
+
+
+
+
+
+/* NavBar Style. */
+.navbar{
+    background-color: yellow;
+}
+
+
+
+/* footer section */
+
+#footer{
+    position: relative;
+    top: 22px;
+    background-color: black;
+}
+#footer ul{
+    list-style-type: none;
+}
+
+#footer ul h5{
+    color: white;
+}
+#footer ul li{
+    color: grey;
+}
+
+
+
+/* card section */
+#card-container{
+    border: 2px solid black;
+    position: relative;
+    top: 30px;
+}
+
+#card-box{
+    margin:30px 0px;
+}
+
+
+
+/* Home */
+
+.About-page{
+    /* border: 2px solid yellow; */
+    width: 570px;
+    position: absolute;
+    top: 200px;
+}
+.text{
+    border: 2px solid black;
+    margin: 50px;
+    word-spacing: 5px;
+}
+#about-heading{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    text-shadow: 4px 3px 5px grey;
+}
